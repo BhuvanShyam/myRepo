@@ -6,4 +6,7 @@ void bubbleSort();
 void quicksort(int arr[]);
 >>>>>>> quickSort
 
+
+void maergeSort();
+
 jajkljljlmmmzmmm
