@@ -10,3 +10,4 @@ void quicksort(int arr[]);
 void maergeSort();
 
 jajkljljlmmmzmmm
+insertion sort();
